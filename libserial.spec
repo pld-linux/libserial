@@ -1,5 +1,5 @@
 Summary:	linSerial class - simple, basic framework for managing a serial port
-Summary(pl):	Klasa linSerial - prosty, podstawowy szkielet do zarz±dzania portem szeregowym
+Summary(pl.UTF-8):   Klasa linSerial - prosty, podstawowy szkielet do zarzÄ…dzania portem szeregowym
 Name:		libserial
 Version:	0.1.1
 Release:	1
@@ -21,15 +21,15 @@ port programmer.
 
 The package includes a flexible error-reporting class.
 
-%description -l pl
-Klasa linSerial dostarcza prosty, podstawowy szkielet do zarz±dzania
-portem szeregowym. Projekt tej klasy skupia siê na uczynieniu portu
-szeregowego ³atwym w u¿yciu i ukryciu z³o¿ono¶ci pe³nego linuksowego
-i uniksowego interfejsu termios. Celem jest u³atwienie pocz±tkuj±cym
-pisania programów dla modemów, drukarek szeregowych i innych urz±dzeñ
-pod³±czanych w ten sposób.
+%description -l pl.UTF-8
+Klasa linSerial dostarcza prosty, podstawowy szkielet do zarzÄ…dzania
+portem szeregowym. Projekt tej klasy skupia siÄ™ na uczynieniu portu
+szeregowego Å‚atwym w uÅ¼yciu i ukryciu zÅ‚oÅ¼onoÅ›ci peÅ‚nego linuksowego
+i uniksowego interfejsu termios. Celem jest uÅ‚atwienie poczÄ…tkujÄ…cym
+pisania programÃ³w dla modemÃ³w, drukarek szeregowych i innych urzÄ…dzeÅ„
+podÅ‚Ä…czanych w ten sposÃ³b.
 
-Pakiet zawiera tak¿e elastyczn± klasê do raportowania b³êdów.
+Pakiet zawiera takÅ¼e elastycznÄ… klasÄ™ do raportowania bÅ‚Ä™dÃ³w.
 
 %prep
 %setup -q -n %{name}-0.1
