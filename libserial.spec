@@ -1,5 +1,5 @@
 Summary:	linSerial class - simple, basic framework for managing a serial port
-Summary(pl.UTF-8):   Klasa linSerial - prosty, podstawowy szkielet do zarządzania portem szeregowym
+Summary(pl.UTF-8):	Klasa linSerial - prosty, podstawowy szkielet do zarządzania portem szeregowym
 Name:		libserial
 Version:	0.1.1
 Release:	1
